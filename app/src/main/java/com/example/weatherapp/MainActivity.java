@@ -25,7 +25,7 @@ import org.json.JSONObject;
 public class MainActivity extends AppCompatActivity {
 
     // Notes: Debug Tools
-    boolean debug = true;
+    boolean debug = false;
 
     // Notes: XML Elements
     Button get_button;
@@ -128,6 +128,8 @@ public class MainActivity extends AppCompatActivity {
             case "Snow":
                 constraintLayout.setBackgroundResource(R.drawable.snow);
                 break;
+            case "Haze":
+                constraintLayout.setBackgroundResource(R.drawable.haze);
 
         }
     }
