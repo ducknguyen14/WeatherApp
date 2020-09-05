@@ -1,7 +1,7 @@
-# WeatherApp
+# CloudCoverApp
 
 ***********************************************
-********* Welcome to my Weather App!! *********
+********* Welcome to my Cloud Cover App!! *********
 ***********************************************
 
 This application tells users what the weather is in any given city.
